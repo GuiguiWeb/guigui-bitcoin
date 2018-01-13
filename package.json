@@ -1,0 +1,9 @@
+{
+  "name": "api-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chart.js": "^2.7.1"
+  }
+}

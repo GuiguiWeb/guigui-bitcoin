@@ -1,0 +1,13 @@
+{
+    "name": "guillaumedouceron/api-life",
+    "authors": [
+        {
+            "name": "GuiguiWeb",
+            "email": "guillaume.douceron@free.fr"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^4.0",
+        "mashape/unirest-php": "^3.0"
+    }
+}
