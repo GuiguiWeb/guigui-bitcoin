@@ -1,5 +1,5 @@
 {
-    "name": "guillaumedouceron/api-life",
+    "name": "guillaumedouceron/guigui-bitcoin",
     "authors": [
         {
             "name": "GuiguiWeb",
@@ -7,7 +7,9 @@
         }
     ],
     "require": {
-        "symfony/var-dumper": "^4.0",
         "mashape/unirest-php": "^3.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.0"
     }
 }

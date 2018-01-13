@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3ba7907df2efb5e8082adbd7a09ec230",
+    "content-hash": "7e860d0f4889eb84d41081ebf8b12684",
     "packages": [
         {
             "name": "mashape/unirest-php",
@@ -51,7 +51,9 @@
                 "rest"
             ],
             "time": "2016-08-11T17:49:21+00:00"
-        },
+        }
+    ],
+    "packages-dev": [
         {
             "name": "symfony/polyfill-mbstring",
             "version": "v1.6.0",
@@ -236,7 +238,6 @@
             "time": "2018-01-03T17:15:19+00:00"
         }
     ],
-    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],
